@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Logan Prentice</h1>
+<h1 align="center">Hey 👋, I'm Logan Prentice</h1>
 <h3 align="center">An avid rock climber that moonlights as a backend developer</h3>
 
 - 🔭 I’m currently working on **a DnD Dungeon Master CLI Tool!**
